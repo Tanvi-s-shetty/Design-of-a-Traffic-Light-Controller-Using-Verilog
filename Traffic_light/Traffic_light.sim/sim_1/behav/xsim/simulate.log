@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+At time 0, NS_light = 10, EW_light = 00
+At time 15000, NS_light = 01, EW_light = 00
+At time 25000, NS_light = 00, EW_light = 10
+At time 35000, NS_light = 00, EW_light = 01
+At time 45000, NS_light = 10, EW_light = 00
+At time 55000, NS_light = 01, EW_light = 00
+At time 65000, NS_light = 00, EW_light = 10
+At time 75000, NS_light = 00, EW_light = 01
+At time 85000, NS_light = 10, EW_light = 00
+At time 95000, NS_light = 01, EW_light = 00
+At time 105000, NS_light = 00, EW_light = 10
+$finish called at time : 110 ns : File "D:/1Vivado/Traffic_light/Traffic_light.srcs/sim_1/new/traffic_light_tb.v" Line 53
